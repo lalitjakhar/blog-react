@@ -102,7 +102,7 @@ const Login = () => {
             <SignupButton>Signup</SignupButton>
             <Text style={{ textAlign: "center" }}>OR</Text>
             <LoginButton variant="contained" onClick={() => toggleSignup()}>
-              Already have an account
+              Already have an account?
             </LoginButton>
           </Wrapper>
         )}
