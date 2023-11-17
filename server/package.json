@@ -1,0 +1,27 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lalitjakhar/blog-react.git"
+  },
+  "author": "Lalit Jakhar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lalitjakhar/blog-react/issues"
+  },
+  "homepage": "https://github.com/lalitjakhar/blog-react#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^8.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
